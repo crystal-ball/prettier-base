@@ -12,8 +12,8 @@ module.exports = {
     {
       files: '*.md',
       options: {
-        printWidth: 80
-      }
-    }
-  ]
+        printWidth: 80,
+      },
+    },
+  ],
 }

@@ -1,14 +1,14 @@
-# 🔮 Fellowship Prettier Configs
+# 🔮 Projects - Prettier Configs
 
 ## Setup
 
-*Install*
+_1. Install_
 
 ```sh
 npm i -D @crystal-ball/prettier-base
 ```
 
-*Reference in `package.json`*
+2. Update `package.json`\_
 
 ```json
 {
@@ -16,4 +16,3 @@ npm i -D @crystal-ball/prettier-base
   "prettier": "@crystal-ball/prettier-base"
 }
 ```
-
