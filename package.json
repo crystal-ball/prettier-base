@@ -22,7 +22,7 @@
     "test": "echo \"No tests for package\""
   },
   "dependencies": {
-    "prettier": "1.17.1"
+    "prettier": "1.18.2"
   },
   "devDependencies": {
     "@crystal-ball/commit-semantics": "1.0.0",
