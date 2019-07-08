@@ -1,7 +1,7 @@
 {
   "name": "@crystal-ball/prettier-base",
   "version": "1.0.0",
-  "description": "Fellowship shared Prettier configs",
+  "description": "🔮 Projects - Prettier configs",
   "main": "index.js",
   "keywords": [
     "Prettier",
@@ -22,11 +22,11 @@
     "test": "echo \"No tests for package\""
   },
   "dependencies": {
-    "prettier": "1.17.1"
+    "prettier": "1.18.2"
   },
   "devDependencies": {
-    "@crystal-ball/commit-semantics": "1.0.0",
-    "husky": "2.3.0"
+    "@crystal-ball/commit-semantics": "1.1.0",
+    "husky": "3.0.0"
   },
   "config": {
     "commitizen": {
