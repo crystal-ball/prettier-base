@@ -4,6 +4,9 @@
   <a href="https://www.npmjs.com/package/@crystal-ball/prettier-base">
     <img src="https://img.shields.io/npm/v/@crystal-ball/prettier-base.svg?style=flat-square" alt="NPM">
   </a>
+  <a href="https://travis-ci.com/crystal-ball/prettier-base">
+    <img src="https://travis-ci.com/crystal-ball/prettier-base.svg?branch=master" alt="Travis">
+  </a>
   <a href="https://renovatebot.com/">
     <img src="https://img.shields.io/badge/Renovate-enabled-32c3c2.svg" alt="Renovate" />
   </a>
