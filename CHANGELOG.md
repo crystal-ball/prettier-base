@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.2.0](https://github.com/crystal-ball/prettier-base/compare/v1.1.0...v1.2.0) (2019-07-08)
+
+
+#### ✨ Update
+
+* Bump to Prettier v1.18 🆙 (#11)([9d841b7](https://github.com/crystal-ball/prettier-base/commit/9d841b7d294c43b7a79c2ae97c99bca0daed0b62)), closes [#11](https://github.com/crystal-ball/prettier-base/issue/11)
+
 ## [1.1.0](https://github.com/crystal-ball/prettier-base/compare/v1.0.0...v1.1.0) (2019-05-28)
 
 
