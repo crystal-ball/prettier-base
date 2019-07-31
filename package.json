@@ -1,6 +1,6 @@
 {
   "name": "@crystal-ball/prettier-base",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "🔮 Projects - Prettier configs",
   "main": "index.js",
   "keywords": [

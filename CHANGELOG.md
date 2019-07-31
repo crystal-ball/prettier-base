@@ -14,6 +14,17 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.3.0](https://github.com/crystal-ball/prettier-base/compare/v1.2.0...v1.3.0) (2019-07-31)
+
+
+#### ✨ Update
+
+* Enable long lines in YAML files for shell commands ✨ (#15)([3da3ad9](https://github.com/crystal-ball/prettier-base/commit/3da3ad9e4a18d67ab0b938184720f6d066e4eb68)), closes [#15](https://github.com/crystal-ball/prettier-base/issue/15)
+
+#### Docs
+
+* Add Travis badge 📝 (#12)([195812a](https://github.com/crystal-ball/prettier-base/commit/195812a2b28d931e515bd66fc11e617b49a33668)), closes [#12](https://github.com/crystal-ball/prettier-base/issue/12)
+
 ## [1.2.0](https://github.com/crystal-ball/prettier-base/compare/v1.1.0...v1.2.0) (2019-07-08)
 
 
