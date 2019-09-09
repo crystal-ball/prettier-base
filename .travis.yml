@@ -2,16 +2,11 @@ language: node_js
 node_js:
   - '10'
 
-# Cache dependencies
-cache: npm
+# Package has no tests for CI/CD
+install: true
+script: true
 
-# Default for install is npm ci w/ package-lock.json
-# install
-
-# Default for script lifecycle is npm test
-# script
-
-# Release with Semantic after tests pass
+# 🚀 Semantic release
 deploy:
   provider: script
   # Prevent Travis from resetting working directory after build
