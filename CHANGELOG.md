@@ -14,6 +14,17 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.5.0](https://github.com/crystal-ball/prettier-base/compare/v1.4.0...v1.5.0) (2019-09-09)
+
+
+#### ✨ Update
+
+* Adjust line length in HTML files ✨ (#20)([e617c22](https://github.com/crystal-ball/prettier-base/commit/e617c22a338d68ea7bb70106b8ca1789913d0b81)), closes [#20](https://github.com/crystal-ball/prettier-base/issue/20)
+
+#### Chore
+
+* Adjust Travis for lack of tests in repo ⚙️ (#21)([09e201a](https://github.com/crystal-ball/prettier-base/commit/09e201a6225f29317276c959ff4736c2e4257f1f)), closes [#21](https://github.com/crystal-ball/prettier-base/issue/21)
+
 ## [1.4.0](https://github.com/crystal-ball/prettier-base/compare/v1.3.0...v1.4.0) (2019-08-30)
 
 
