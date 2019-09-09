@@ -16,10 +16,13 @@ module.exports = {
         printWidth: 80,
       },
     },
-    // Allow really long lines in YAML files because it's often easier to read
-    // shell commands when they're not broken into multiple lines awkwardly
+    // Allow really long lines in:
+    // - HTML because it's only used for index files and looks nice with
+    //   consistent single line tags
+    // - YAML files because it's often easier to read shell commands when
+    //   they're not broken into multiple lines awkwardly
     {
-      files: ['*.yml', '*.yaml'],
+      files: ['*.html', '*.yml', '*.yaml'],
       options: {
         printWidth: 140,
       },
