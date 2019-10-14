@@ -49,7 +49,6 @@ _2. Update `package.json`_
 
 ```json
 {
-  // ...
   "prettier": "@crystal-ball/prettier-base"
 }
 ```
