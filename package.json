@@ -22,7 +22,7 @@
     "test": "echo \"No tests for package\""
   },
   "dependencies": {
-    "prettier": "1.18.2"
+    "prettier": "1.19.1"
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.1.0",
