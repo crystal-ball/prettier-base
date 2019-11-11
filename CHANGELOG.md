@@ -14,6 +14,23 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.6.0](https://github.com/crystal-ball/prettier-base/compare/v1.5.0...v1.6.0) (2019-11-11)
+
+
+#### ✨ Update
+
+* Update dependency prettier to v1.19.1 🆙 (#29)([75a5cd4](https://github.com/crystal-ball/prettier-base/commit/75a5cd42e47b871706a29a7d12c2695abdc45323)), closes [#29](https://github.com/crystal-ball/prettier-base/issue/29)
+
+#### Chore, Docs
+
+* Reconfigure Renovate ⚙️ (#24)([33dcb98](https://github.com/crystal-ball/prettier-base/commit/33dcb9869a5e8b78f461ed9013ad9a1104412227)), closes [#24](https://github.com/crystal-ball/prettier-base/issue/24)
+* Setup Github Actions (#23)([8a2ce37](https://github.com/crystal-ball/prettier-base/commit/8a2ce37241cef523c6f1adc2cce2c6d5f12180e7)), closes [#23](https://github.com/crystal-ball/prettier-base/issue/23)
+* Update dependency @crystal-ball/semantic-release-base to v2.3.0 🆙 (#28)([d1aafef](https://github.com/crystal-ball/prettier-base/commit/d1aafef412d189ebffd9d75cfdd64ee0069c7454)), closes [#28](https://github.com/crystal-ball/prettier-base/issue/28)
+* Update minor devDependencies 🆙 (#27)([bfa97b6](https://github.com/crystal-ball/prettier-base/commit/bfa97b6cde77cb7036a41210269bb5634abc3416)), closes [#27](https://github.com/crystal-ball/prettier-base/issue/27)
+* Use commitizen and semantic release packages([0511d52](https://github.com/crystal-ball/prettier-base/commit/0511d52163b052fdff94dbc9262e9674a0b17c14))
+* Remove JSON invalid comment 📝([a2df0fd](https://github.com/crystal-ball/prettier-base/commit/a2df0fd1ea01753a123c371923d9e18f7c5e209f))
+* Update CI/CD badge 📝 (#26)([d8c14a2](https://github.com/crystal-ball/prettier-base/commit/d8c14a204235bf82436a5f9195dba34a0ad56f83)), closes [#26](https://github.com/crystal-ball/prettier-base/issue/26)
+
 ## [1.5.0](https://github.com/crystal-ball/prettier-base/compare/v1.4.0...v1.5.0) (2019-09-09)
 
 
