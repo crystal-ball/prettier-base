@@ -19,7 +19,9 @@
   },
   "license": "ISC",
   "scripts": {
-    "test": "echo \"No tests for package\""
+    "test": "npm run test:format",
+    "test:format": "prettier --check index.js",
+    "format": "prettier --write index.js"
   },
   "dependencies": {
     "prettier": "1.19.1"
