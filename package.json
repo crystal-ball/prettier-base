@@ -21,7 +21,7 @@
   "scripts": {
     "test": "npm run test:format",
     "test:format": "prettier --check index.js",
-    "format": "prettier --write  '*.{js,json,md}' '**/*.{js,json,md,mdx,scss}' !CHANGELOG.md"
+    "format": "prettier --write '*.{js,json,md}' '**/*.{js,json,md,mdx,scss}' !CHANGELOG.md"
   },
   "dependencies": {
     "prettier": "1.19.1"
