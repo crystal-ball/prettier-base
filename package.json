@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.3.0",
-    "@crystal-ball/semantic-release-base": "2.5.0",
+    "@crystal-ball/semantic-release-base": "2.6.0",
     "husky": "3.1.0"
   },
   "config": {
