@@ -1,13 +1,5 @@
 name: CI/CD
-
-# Run action on all PRS and on change to master branch in order to test PRs for
-# continuous integration and deploy master for continuous deployment
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   skip:
@@ -17,6 +9,7 @@ jobs:
     steps:
       - name: Skip CI Commit
         run: echo "Skip CI commit success"
+
   test:
     name: Continuous Integration
     if: contains(github.event.head_commit.message, 'skip ci') == false
@@ -31,6 +24,7 @@ jobs:
         run: CI=true npm install
       - name: Test
         run: npm test
+
   publish:
     name: Continuous Deployment
     needs: test
