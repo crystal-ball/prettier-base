@@ -14,6 +14,41 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.0.0](https://github.com/crystal-ball/prettier-base/compare/v1.6.0...v2.0.0) (2020-03-22)
+
+
+### 💥 Breaking Changes!
+
+* Switching to always include arrow parens and consistently quote object props
+
+
+#### ✨ Update
+
+* Prettier 2.0 update 🆙 (#45)([0fe65e0](https://github.com/crystal-ball/prettier-base/commit/0fe65e03bb1225f4ba1482457819b61d9e99cace)), closes [#45](https://github.com/crystal-ball/prettier-base/issue/45)
+
+#### Chore
+
+* Add checks for skipping ci ⚙️ (#34)([8e3e5c5](https://github.com/crystal-ball/prettier-base/commit/8e3e5c55a872afb0a3ce79fa885364a77575e297)), closes [#34](https://github.com/crystal-ball/prettier-base/issue/34)
+* Add CODEOWNERS 📝([0f0297c](https://github.com/crystal-ball/prettier-base/commit/0f0297ce06eab9f19d86c3d97e0363ccc3dbad5a))
+* Code authoring format script improvements ⚙️([4546706](https://github.com/crystal-ball/prettier-base/commit/4546706f0057d8c01c603508fe6533ff4f5cdd71))
+* Code authoring updates 📝([37b7385](https://github.com/crystal-ball/prettier-base/commit/37b73851ca7a0fa56e9bdc12abb9aff3cdef3a72))
+* Code authoring updates 📝([5938ffc](https://github.com/crystal-ball/prettier-base/commit/5938ffca8e396ed834afdae1552933096514da44))
+* Dev dependencies 🆙([8bac592](https://github.com/crystal-ball/prettier-base/commit/8bac5928498f6461f5e55ee9beedbb743d979d5a))
+* Fix prettier script formatting 📝([65ae7f2](https://github.com/crystal-ball/prettier-base/commit/65ae7f271c11a6871608a2d6dd7b33a8eacc93b2))
+* Reconfigure Renovate 🆙 (#31)([e97106b](https://github.com/crystal-ball/prettier-base/commit/e97106b1c7be34ae5594ffc968886ba547ba2b64)), closes [#31](https://github.com/crystal-ball/prettier-base/issue/31)
+* Repo maintenance([22a4229](https://github.com/crystal-ball/prettier-base/commit/22a42290fc1a8fe1691dece6033b06a87281393e))
+* Update Code of Conduct and Contributing files 🔮✨ (#30)([f5917bd](https://github.com/crystal-ball/prettier-base/commit/f5917bd61e6636c6210a0c483a223d76bc07eaf3)), closes [#30](https://github.com/crystal-ball/prettier-base/issue/30)
+* Update dev dependencies 🆙 (#35)([47073cf](https://github.com/crystal-ball/prettier-base/commit/47073cfef6380ba9bb47f6cc83c336b0c34744a5)), closes [#35](https://github.com/crystal-ball/prettier-base/issue/35)
+* Update dev dependencies 🆙 (#40)([3e913aa](https://github.com/crystal-ball/prettier-base/commit/3e913aa514d84859680548e9f434b18b4b132a6a)), closes [#40](https://github.com/crystal-ball/prettier-base/issue/40)
+* Update dev dependencies 🆙 (#44)([4b2d1c3](https://github.com/crystal-ball/prettier-base/commit/4b2d1c32a64991036fd3eadcd04e5a1fcb322162)), closes [#44](https://github.com/crystal-ball/prettier-base/issue/44)
+* Update package @crystal-ball/semantic-release-base to v2.4.0 🆙 (#33)([53be7ba](https://github.com/crystal-ball/prettier-base/commit/53be7ba26b77cca8112a887892cf076ad01d780f)), closes [#33](https://github.com/crystal-ball/prettier-base/issue/33)
+* Update package @crystal-ball/semantic-release-base to v2.6.0 🆙 (#36)([1928a99](https://github.com/crystal-ball/prettier-base/commit/1928a994adc7636e703237bf69b7a81edba22bdb)), closes [#36](https://github.com/crystal-ball/prettier-base/issue/36)
+* Update package @crystal-ball/semantic-release-base to v2.7.0 🆙 (#37)([121f702](https://github.com/crystal-ball/prettier-base/commit/121f7021790dfadd803b16e9e31d84e0fd4ec051)), closes [#37](https://github.com/crystal-ball/prettier-base/issue/37)
+* Update package @crystal-ball/semantic-release-base to v2.9.0 🆙 (#38)([3c6b665](https://github.com/crystal-ball/prettier-base/commit/3c6b6657a752abedb02a2818002f692b0d3242b3)), closes [#38](https://github.com/crystal-ball/prettier-base/issue/38)
+* Update package dependencies 🆙([02bf59b](https://github.com/crystal-ball/prettier-base/commit/02bf59b104f42182c373a799df41a3b9e111698a))
+* Update package husky to v4 🆙 (#39)([c4c20c6](https://github.com/crystal-ball/prettier-base/commit/c4c20c6e98616aff2f057ae85ee68d4662761496)), closes [#39](https://github.com/crystal-ball/prettier-base/issue/39)
+* Update package husky to v4.2.1 🆙 (#41)([3819da3](https://github.com/crystal-ball/prettier-base/commit/3819da3ebd45db1d64c8bdf34c9571ec7c67088e)), closes [#41](https://github.com/crystal-ball/prettier-base/issue/41)
+
 ## [1.6.0](https://github.com/crystal-ball/prettier-base/compare/v1.5.0...v1.6.0) (2019-11-11)
 
 
