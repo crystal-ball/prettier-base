@@ -1,8 +1,10 @@
 module.exports = {
+  arrowParens: 'always',
   endOfLine: 'lf',
   jsxSingleQuote: true,
   printWidth: 90,
   proseWrap: 'always',
+  quoteProps: 'consistent',
   semi: false,
   singleQuote: true,
   trailingComma: 'all',
