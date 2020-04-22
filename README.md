@@ -57,7 +57,7 @@
 ---
 
 This package manages the Prettier dependency versioning and configuration. The
-package is batteries included for installing `prettier` as a dependency.
+package is batteries included for using Prettier for formatting.
 
 ## ⚙️ Setup
 
