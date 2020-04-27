@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.2.0](https://github.com/crystal-ball/prettier-base/compare/v2.1.0...v2.2.0) (2020-04-27)
+
+
+#### ✨ Update
+
+* Package prettier upgrades to v2.0.5 🆙 (#51)([083066c](https://github.com/crystal-ball/prettier-base/commit/083066c57e05f3be7f75bbc61c668e83f5b21001)), closes [#51](https://github.com/crystal-ball/prettier-base/issue/51)
+
+#### Chore, Docs
+
+* Reconfigure Renovate ⚙️ (#48)([d173ceb](https://github.com/crystal-ball/prettier-base/commit/d173ceb31f53fc7c65ff06a295194a1898a2b0fb)), closes [#48](https://github.com/crystal-ball/prettier-base/issue/48)
+* Update skip jobs ⚙️ (#49)([918d634](https://github.com/crystal-ball/prettier-base/commit/918d6345605f1dc82893d66d4e7a6e2b04f11f75)), closes [#49](https://github.com/crystal-ball/prettier-base/issue/49)
+* Readme update 📝 [skip ci]([e7bfe65](https://github.com/crystal-ball/prettier-base/commit/e7bfe653e73ffda9f85e46031cee172768082691))
+
 ## [2.1.0](https://github.com/crystal-ball/prettier-base/compare/v2.0.0...v2.1.0) (2020-04-18)
 
 
