@@ -31,6 +31,7 @@
     "@crystal-ball/semantic-release-base": "2.17.0",
     "husky": "4.2.5"
   },
+  "prettier": "./index.js",
   "config": {
     "commitizen": {
       "path": "@crystal-ball/commitizen-base"
@@ -41,10 +42,14 @@
       "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
     }
   },
-  "prettier": "./index.js",
   "release": {
     "extends": [
       "@crystal-ball/semantic-release-base"
+    ]
+  },
+  "renovate": {
+    "extends": [
+      "github>crystal-ball/renovate-base:library"
     ]
   }
 }
