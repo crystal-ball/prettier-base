@@ -74,3 +74,11 @@ _2. Update `package.json`_
   "prettier": "@crystal-ball/prettier-base"
 }
 ```
+
+_3. Command script_
+
+```json
+{
+  "format": "prettier --write . !CHANGELOG.md"
+}
+```
