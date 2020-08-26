@@ -24,7 +24,7 @@
     "format": "prettier --write . !CHANGELOG.md"
   },
   "dependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.1.1"
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.7.1",
