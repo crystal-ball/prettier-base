@@ -14,6 +14,22 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.3.0](https://github.com/crystal-ball/prettier-base/compare/v2.2.0...v2.3.0) (2020-09-04)
+
+
+#### ✨ Update
+
+* Package prettier to v2.1.1 🆙 (#56)([25a7c6d](https://github.com/crystal-ball/prettier-base/commit/25a7c6d5b171429c5c9472d0f47c20ed3b74dce4)), closes [#56](https://github.com/crystal-ball/prettier-base/issue/56)
+
+#### Chore, Docs
+
+* Reconfigure Renovate ⚙️ (#52)([2a6e2e7](https://github.com/crystal-ball/prettier-base/commit/2a6e2e7dd78062499bbfbf9a3bd2a3fd08e899ec)), closes [#52](https://github.com/crystal-ball/prettier-base/issue/52)
+* Update dev dependencies 🆙 (#50)([0b08b55](https://github.com/crystal-ball/prettier-base/commit/0b08b55140e1441d90d6813117eee093dc96d0bd)), closes [#50](https://github.com/crystal-ball/prettier-base/issue/50)
+* Update devDependencies 🆙 (#53)([941ef96](https://github.com/crystal-ball/prettier-base/commit/941ef965554ebc4a22deac9c7ecaee2fb8d0537d)), closes [#53](https://github.com/crystal-ball/prettier-base/issue/53)
+* Update package @crystal-ball/semantic-release-base to v2.19.0 🆙 (#54)([d08b259](https://github.com/crystal-ball/prettier-base/commit/d08b25966bebdfcbb0b64de58a6044fecaaf004d)), closes [#54](https://github.com/crystal-ball/prettier-base/issue/54)
+* Update package @crystal-ball/semantic-release-base to v2.20.0 🆙 (#55)([c770c09](https://github.com/crystal-ball/prettier-base/commit/c770c09f9c14e842307fd8422f00d335ddd35cec)), closes [#55](https://github.com/crystal-ball/prettier-base/issue/55)
+* Add command script example to docs 📝([98c0a1e](https://github.com/crystal-ball/prettier-base/commit/98c0a1e0711518179d4e0bacc57b3284e97231eb))
+
 ## [2.2.0](https://github.com/crystal-ball/prettier-base/compare/v2.1.0...v2.2.0) (2020-04-27)
 
 
