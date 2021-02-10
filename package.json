@@ -29,7 +29,7 @@
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.10.0",
     "@crystal-ball/semantic-release-base": "2.26.0",
-    "husky": "4.3.8"
+    "husky": "5.0.9"
   },
   "prettier": "./index.js",
   "config": {
