@@ -28,8 +28,8 @@
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.10.0",
-    "@crystal-ball/semantic-release-base": "2.27.0",
-    "husky": "5.0.9"
+    "@crystal-ball/semantic-release-base": "2.28.0",
+    "husky": "5.1.1"
   },
   "prettier": "./index.js",
   "config": {
