@@ -19,6 +19,7 @@
   },
   "license": "ISC",
   "scripts": {
+    "commit": "cz",
     "test": "npm run test:format",
     "test:format": "prettier --check . !CHANGELOG.md",
     "format": "prettier --write . !CHANGELOG.md"
@@ -28,28 +29,7 @@
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.10.0",
-    "@crystal-ball/semantic-release-base": "2.31.0",
-    "husky": "6.0.0"
+    "@crystal-ball/semantic-release-base": "2.31.0"
   },
-  "prettier": "./index.js",
-  "config": {
-    "commitizen": {
-      "path": "@crystal-ball/commitizen-base"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
-    }
-  },
-  "release": {
-    "extends": [
-      "@crystal-ball/semantic-release-base"
-    ]
-  },
-  "renovate": {
-    "extends": [
-      "github>crystal-ball/renovate-base:library"
-    ]
-  }
+  "prettier": "./index.js"
 }
