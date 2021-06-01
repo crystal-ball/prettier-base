@@ -28,8 +28,8 @@
     "prettier": "2.3.0"
   },
   "devDependencies": {
-    "@crystal-ball/commitizen-base": "2.10.0",
-    "@crystal-ball/semantic-release-base": "2.31.0"
+    "@crystal-ball/commitizen-base": "2.11.0",
+    "@crystal-ball/semantic-release-base": "2.32.0"
   },
   "prettier": "./index.js"
 }
