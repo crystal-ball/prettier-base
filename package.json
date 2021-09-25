@@ -25,11 +25,11 @@
     "format": "prettier --write . !CHANGELOG.md"
   },
   "dependencies": {
-    "prettier": "2.3.2"
+    "prettier": "2.4.1"
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.11.0",
-    "@crystal-ball/semantic-release-base": "2.33.0"
+    "@crystal-ball/semantic-release-base": "2.34.0"
   },
   "prettier": "./index.js"
 }
