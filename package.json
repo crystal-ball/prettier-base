@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@crystal-ball/commitizen-base": "2.11.0",
-    "@crystal-ball/semantic-release-base": "2.37.0"
+    "@crystal-ball/semantic-release-base": "2.38.0"
   },
   "prettier": "./index.js"
 }
