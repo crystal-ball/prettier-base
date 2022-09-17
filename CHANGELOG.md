@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.13.0](https://github.com/crystal-ball/prettier-base/compare/v2.12.0...v2.13.0) (2022-09-17)
+
+
+#### ✨ Update
+
+* Package prettier to v2.7.1 🆙 (#94)([bf0bb29](https://github.com/crystal-ball/prettier-base/commit/bf0bb291a264980bf20abdba8d389d024cffcd24)), closes [#94](https://github.com/crystal-ball/prettier-base/issue/94)
+
+#### Chore
+
+* Update actions/checkout action to v3 (#91)([fe5b85c](https://github.com/crystal-ball/prettier-base/commit/fe5b85c07d2da71001af9b7807cb46dbafacea6d)), closes [#91](https://github.com/crystal-ball/prettier-base/issue/91)
+* Update package @crystal-ball/semantic-release-base to v2.38.0 🆙 (#92)([2f7d291](https://github.com/crystal-ball/prettier-base/commit/2f7d29180b1fd8670f48fea18c2b68275a7d2f3d)), closes [#92](https://github.com/crystal-ball/prettier-base/issue/92)
+* Update package @crystal-ball/semantic-release-base to v2.39.0 🆙 (#93)([660af56](https://github.com/crystal-ball/prettier-base/commit/660af5685a270ff6bc9e4b685355dfd268a75098)), closes [#93](https://github.com/crystal-ball/prettier-base/issue/93)
+
 ## [2.12.0](https://github.com/crystal-ball/prettier-base/compare/v2.11.0...v2.12.0) (2022-04-09)
 
 
