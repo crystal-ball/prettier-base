@@ -1,5 +1,0 @@
-{
-  "extends": [
-    "@crystal-ball/semantic-release-base"
-  ]
-}
