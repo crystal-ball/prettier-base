@@ -4,7 +4,7 @@ module.exports = {
   jsxSingleQuote: true,
   printWidth: 90,
   proseWrap: 'always',
-  quoteProps: 'consistent',
+  quoteProps: 'as-needed',
   semi: false,
   singleQuote: true,
   trailingComma: 'all',
